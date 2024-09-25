@@ -1,0 +1,49 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/1337837834/photo/internet-security-concept-user-access-login-and-password-on-computer.jpg?b=1&s=612x612&w=0&k=20&c=HGDyzEEV7m78DRosBIEqcyWdJWzK5i0gCVf7upFqyNM=);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.form {
+    max-width: 300px;
+    margin: 5% auto;
+    padding: 25px;
+    background-color:lightsalmon;
+    border-radius:20px;
+  }
+  
+  .group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 9px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    box-sizing: border-box;
+  }
+  
+ 
+  
+  .submit-button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size:large;
+    margin-left: 25%;
+  }
+  
+  .submit-button:hover {
+    background-color: #0056b3;
+   
+  }
+  
